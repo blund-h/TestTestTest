@@ -1,2 +1,2 @@
 def test_smoke_pytest():
-	assert 2+2 ==4
+	assert 2+3 ==5
